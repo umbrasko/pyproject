@@ -1,5 +1,5 @@
 # << SOFTWARE NAME >>
-
+**Author:** Aivars Umbrasko <umbrasko.aivars@gmail.com>
 > << SHORT DESCRIPTION >>
 
 ## Development
